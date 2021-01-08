@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby CodyFrame starter
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React paired with the [CodyFrame CSS framework](https://codyhouse.co/ds/get-started).
+Kick off your project with this boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React paired with the [CodyFrame CSS framework](https://codyhouse.co/ds/get-started). Include CodyHouse [components](https://codyhouse.co/ds/components) easily by following their directions on using [components with React](https://codyhouse.co/blog/post/using-the-codyhouse-components-with-react).
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
