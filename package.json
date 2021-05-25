@@ -7,7 +7,7 @@
   "dependencies": {
     "codyhouse-framework": "^2.8.8",
     "gatsby": "^3.4.2",
-    "gatsby-plugin-image": "^1.4.1",
+    "gatsby-plugin-image": "^1.5.0",
     "gatsby-plugin-manifest": "^3.4.0",
     "gatsby-plugin-offline": "^4.5.1",
     "gatsby-plugin-purgecss": "^6.0.2",
