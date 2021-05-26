@@ -16,7 +16,7 @@
     "gatsby-plugin-sharp": "^3.4.2",
     "gatsby-source-filesystem": "^3.4.0",
     "gatsby-transformer-sharp": "^3.4.0",
-    "postcss-calc": "^7.0.5",
+    "postcss-calc": "^8.0.0",
     "postcss-custom-properties": "^11.0.0",
     "postcss-preset-env": "^6.7.0",
     "prop-types": "^15.7.2",
