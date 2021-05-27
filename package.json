@@ -13,7 +13,7 @@
     "gatsby-plugin-purgecss": "^6.0.2",
     "gatsby-plugin-react-helmet": "^4.4.0",
     "gatsby-plugin-sass": "^4.4.0",
-    "gatsby-plugin-sharp": "^3.4.2",
+    "gatsby-plugin-sharp": "^3.6.0",
     "gatsby-source-filesystem": "^3.6.0",
     "gatsby-transformer-sharp": "^3.4.0",
     "postcss-calc": "^8.0.0",
