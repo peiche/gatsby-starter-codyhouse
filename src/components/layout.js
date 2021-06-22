@@ -15,16 +15,10 @@ import "../styles/main.scss"
 const Layout = class extends React.Component {
   componentDidMount() {
     document.getElementsByTagName('html')[0].classList.add('js');
-
-    let util = document.createElement('script');
-    util.src = '/js/util.js';
-    util.id = 'util-js';
-    document.body.appendChild(util);
   }
 
   componentWillUnmount() {
     document.getElementsByTagName('html')[0].classList.remove('js');
-    document.getElementById('util-js').remove();
   }
 
   render() {
