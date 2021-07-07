@@ -7,7 +7,7 @@
   "dependencies": {
     "codyhouse-framework": "^2.8.9",
     "gatsby": "^3.8.1",
-    "gatsby-plugin-image": "^1.8.0",
+    "gatsby-plugin-image": "^1.9.0",
     "gatsby-plugin-manifest": "^3.8.0",
     "gatsby-plugin-offline": "^4.8.0",
     "gatsby-plugin-purgecss": "^6.0.2",
@@ -15,7 +15,7 @@
     "gatsby-plugin-sass": "^4.8.0",
     "gatsby-plugin-sharp": "^3.8.0",
     "gatsby-source-filesystem": "^3.8.0",
-    "gatsby-transformer-sharp": "^3.8.0",
+    "gatsby-transformer-sharp": "^3.9.0",
     "postcss-calc": "^8.0.0",
     "postcss-custom-properties": "^11.0.0",
     "postcss-preset-env": "^6.7.0",
