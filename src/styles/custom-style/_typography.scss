@@ -64,7 +64,7 @@ mark {
 
 .text-component {
   --line-height-multiplier: 1;
-  --text-vspace-multiplier: 1;
+  --text-space-y-multiplier: 1;
 
   blockquote {
     padding-left: 1em;
@@ -84,5 +84,5 @@ mark {
 
 .article { // e.g., blog posts
   --body-line-height: 1.58; // set body line-height
-  --text-vspace-multiplier: 1.2; // increase vertical spacing
+  --text-space-y-multiplier: 1.2; // increase vertical spacing
 }
