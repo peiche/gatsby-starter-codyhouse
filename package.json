@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Paul Eiche <paul@boldoak.design>",
   "dependencies": {
-    "codyhouse-framework": "^3.0.1",
+    "codyhouse-framework": "^3.0.2",
     "gatsby": "^3.14.2",
     "gatsby-plugin-image": "^1.14.1",
     "gatsby-plugin-manifest": "^3.14.0",
