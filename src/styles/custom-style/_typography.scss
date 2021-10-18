@@ -1,3 +1,5 @@
+@use '../base' as *;
+
 // --------------------------------
 
 // (START) Global editor code https://codyhouse.co/ds/globals/typography
@@ -6,7 +8,7 @@
 
 :root {
   // font family
-  --font-primary: system-ui, sans-serif;
+  --font-primary: Inter, system-ui, sans-serif;
 
   // font size
   --text-base-size: 1em; // body font-size
@@ -35,18 +37,26 @@
   --text-xxxxl: calc(var(--text-xxxl) * var(--text-scale-ratio));
 }
 
-@supports(--css: variables) {
-  @include breakpoint(md) {
-    :root {
-      --text-base-size: 1.25em;
-      --text-scale-ratio: 1.25;
-    }
+
+@include breakpoint(md) {
+  :root {
+    --text-base-size: 1.25em;
+    --text-scale-ratio: 1.25;
   }
 }
 
-h1, h2, h3, h4 {
-  font-weight: 700;
+body {
+  font-family: var(--font-primary);
+  --body-font-weight: 500;
 }
+
+h1, h2, h3, h4 {
+  font-family: var(--font-primary);
+  --heading-font-weight: 400;
+}
+
+// font family
+.font-primary { font-family: var(--font-primary); }
 
 // --------------------------------
 
@@ -68,21 +78,21 @@ mark {
 
   blockquote {
     padding-left: 1em;
-    border-left: 4px solid var(--color-contrast-low);
+    border-left: 4px solid var(--color-contrast-lower);
   }
 
   hr {
-    background: var(--color-contrast-low);
+    background: var(--color-contrast-lower);
     height: 1px;
   }
 
   figcaption {
     font-size: var(--text-sm);
-    color: var(--color-contrast-medium);
+    color: var(--color-contrast-low);
   }
 }
 
 .article { // e.g., blog posts
   --body-line-height: 1.58; // set body line-height
-  --text-space-y-multiplier: 1.2; // increase vertical spacing
+  --text-space-y-multiplier: 1.2; // control vertical spacing
 }

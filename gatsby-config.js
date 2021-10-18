@@ -32,8 +32,7 @@ module.exports = {
       resolve: `gatsby-plugin-sass`,
       options: {
         postCssPlugins: [
-					require(`postcss-preset-env`)(),
-          require(`postcss-custom-properties`)(),
+					require(`autoprefixer`)(),
           require(`postcss-calc`)(),
         ],
       },

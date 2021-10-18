@@ -1,3 +1,5 @@
+@use '../base' as *;
+
 :root {
   // radius
   --radius: 0.25em; // border radius base size
@@ -38,6 +40,23 @@
 
   &:hover {
     opacity: 0.8;
+  }
+}
+
+.hover\:scale {
+  transition: transform 0.3s var(--ease-out-back);
+
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+
+.hover\:elevate {
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+
+  &:hover {
+    box-shadow: var(--shadow-md);
   }
 }
 

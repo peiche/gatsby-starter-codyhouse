@@ -1,14 +1,16 @@
+@use '../base' as *;
+
 :root {
   // size - 👇 uncomment to modify default icon sizes
   // --icon-xxxs: 8px;
   // --icon-xxs:  12px;
   // --icon-xs:   16px;
-  // --icon-sm:   24px;
-  // --icon-md:   32px;
-  // --icon-lg:   48px;
-  // --icon-xl:   64px;
-  // --icon-xxl:  96px;
-  // --icon-xxxl: 128px;
+  // --icon-sm:   20px;
+  // --icon-md:   24px;
+  // --icon-lg:   32px;
+  // --icon-xl:   48px;
+  // --icon-xxl:  64px;
+  // --icon-xxxl: 96px;
 }
 
 .icon {
