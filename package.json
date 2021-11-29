@@ -25,7 +25,7 @@
     "sass": "^1.43.4"
   },
   "devDependencies": {
-    "prettier": "^2.4.1"
+    "prettier": "^2.5.0"
   },
   "keywords": [
     "gatsby"
