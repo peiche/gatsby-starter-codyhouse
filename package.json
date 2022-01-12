@@ -15,7 +15,7 @@
     "gatsby-plugin-react-helmet": "^5.5.0",
     "gatsby-plugin-sass": "^5.5.0",
     "gatsby-plugin-sharp": "^4.5.0",
-    "gatsby-source-filesystem": "^4.4.0",
+    "gatsby-source-filesystem": "^4.5.0",
     "gatsby-transformer-sharp": "^4.5.0",
     "postcss-calc": "^8.2.1",
     "prop-types": "^15.8.1",
