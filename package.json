@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "Paul Eiche <paul@boldoak.design>",
   "dependencies": {
-    "autoprefixer": "^10.4.2",
+    "autoprefixer": "^10.4.4",
     "codyhouse-framework": "^3.0.4",
     "gatsby": "^4.9.3",
     "gatsby-plugin-image": "^2.9.1",
