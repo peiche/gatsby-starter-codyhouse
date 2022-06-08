@@ -9,7 +9,7 @@
     "codyhouse-framework": "^3.0.5",
     "gatsby": "^4.15.2",
     "gatsby-plugin-image": "^2.15.1",
-    "gatsby-plugin-manifest": "^4.15.1",
+    "gatsby-plugin-manifest": "^4.16.0",
     "gatsby-plugin-offline": "^5.16.0",
     "gatsby-plugin-purgecss": "^6.1.2",
     "gatsby-plugin-react-helmet": "^5.15.0",
