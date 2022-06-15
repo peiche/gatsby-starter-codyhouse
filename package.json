@@ -20,7 +20,7 @@
     "postcss-calc": "^8.2.4",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
-    "react-dom": "^18.1.0",
+    "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "sass": "^1.52.3"
   },
