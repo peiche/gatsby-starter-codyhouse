@@ -7,7 +7,7 @@
   "dependencies": {
     "autoprefixer": "^10.4.7",
     "codyhouse-framework": "^3.0.6",
-    "gatsby": "^4.18.1",
+    "gatsby": "^4.18.2",
     "gatsby-plugin-image": "^2.18.1",
     "gatsby-plugin-manifest": "^4.18.1",
     "gatsby-plugin-offline": "^5.18.1",
