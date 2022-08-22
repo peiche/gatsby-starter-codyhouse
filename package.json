@@ -22,7 +22,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
-    "sass": "^1.54.4"
+    "sass": "^1.54.5"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
