@@ -13,7 +13,7 @@
     "gatsby-plugin-offline": "^6.2.0",
     "gatsby-plugin-purgecss": "^6.1.2",
     "gatsby-plugin-react-helmet": "^6.1.0",
-    "gatsby-plugin-sass": "^6.1.0",
+    "gatsby-plugin-sass": "^6.2.0",
     "gatsby-plugin-sharp": "^5.1.0",
     "gatsby-source-filesystem": "^5.2.0",
     "gatsby-transformer-sharp": "^5.1.0",
