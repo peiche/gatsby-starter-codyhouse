@@ -10,7 +10,7 @@
     "gatsby": "^5.5.0",
     "gatsby-plugin-image": "^3.6.0",
     "gatsby-plugin-manifest": "^5.5.0",
-    "gatsby-plugin-offline": "^6.5.0",
+    "gatsby-plugin-offline": "^6.6.0",
     "gatsby-plugin-purgecss": "^6.2.1",
     "gatsby-plugin-react-helmet": "^6.5.0",
     "gatsby-plugin-sass": "^6.5.0",
