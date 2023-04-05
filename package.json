@@ -6,7 +6,7 @@
   "author": "Paul Eiche <paul@boldoak.design>",
   "dependencies": {
     "autoprefixer": "^10.4.14",
-    "codyhouse-framework": "^3.0.12",
+    "codyhouse-framework": "^3.0.13",
     "gatsby": "^5.8.1",
     "gatsby-plugin-image": "^3.8.0",
     "gatsby-plugin-manifest": "^5.8.0",
