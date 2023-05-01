@@ -17,7 +17,7 @@
     "gatsby-plugin-sharp": "^5.9.0",
     "gatsby-source-filesystem": "^5.9.0",
     "gatsby-transformer-sharp": "^5.9.0",
-    "postcss-calc": "^8.2.4",
+    "postcss-calc": "^9.0.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
